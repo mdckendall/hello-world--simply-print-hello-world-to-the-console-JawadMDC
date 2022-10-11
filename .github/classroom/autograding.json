@@ -8,7 +8,7 @@
       "output": "Hello World",
       "comparison": "included",
       "timeout": 10,
-      "points": 10
+      "points": 100
     }
   ]
 }
